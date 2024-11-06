@@ -24,10 +24,10 @@ The application displays organized information about states in India, including 
 ## Screenshots
 
 ### List View
-![List View](./screenshots/list-view.png)
+![List View](./screenshots/list-view.PNG)
 
 ### Table View
-![Table View](./screenshots/table-view.png)
+![Table View](./screenshots/table-view.PNG)
 
 ## Usage Instructions
 
