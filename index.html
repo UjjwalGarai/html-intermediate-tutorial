@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive State Information Explorer</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        /* Your CSS styles here */
+    </style>
+</head>
+<body>
+    <div class="heading">
+        <h3>Explore Indian States by Region, with Capitals and Government Portals</h3> 
+        <p>This application provides a structured view of India's states grouped by regions, 
+            showcasing essential information such as state capitals and direct links to 
+            government portals. Use the toggle feature to switch seamlessly between a list view
+             for quick browsing and a table view for detailed insights. 
+            Discover the administrative layout of India in an interactive, easy-to-navigate format.</p>
+    </div>
+
+    <div class="switch-box">
+        <span>List</span>
+        <label class="switch">
+            <input type="checkbox"> 
+            <span class="slider round"></span>
+        </label>
+        <span>Table</span>
+    </div>
+
+    <div class="container">
+        <div class="list-content"></div>
+        <div class="table-content"></div>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
