@@ -9,6 +9,8 @@ An interactive application that provides details about Indian states categorized
 - [Screenshots](#screenshots)
 - [Usage Instructions](#usage-instructions)
 - [Code Structure](#code-structure)
+- [Notes](#notes)
+- [Hosting on GitHub Pages](#hosting-on-gitHub-pages)
 
 ## Overview
 
@@ -62,4 +64,7 @@ const stateData = [
 
 - Update the screenshot file paths like `./screenshots/list-view.png` and `./screenshots/table-view.png` based on your actual folder structure.
 - The **Data** section code snippet includes only the first region. Feel free to add the rest if needed.
+
+## Hosting on GitHub Pages
+This project is hosted on GitHub Pages and can be accessed at: [URL](https://ujjwalgarai.github.io/html-intermediate-tutorial/) 
 
